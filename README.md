@@ -13,14 +13,16 @@ Soy **Docente** y **Programador Web FullStack** apasionado por la enseñanza y e
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Frontend**: React, Tailwind CSS, JavaScript, TypeScript
-- **Backend**: Node.js, Express, PostgreSQL, MongoDB
+- **Frontend**: React, React Router DOM, Next.js, Zod, Zustand, Tailwind CSS, JavaScript, TypeScript
+- **Backend**: Node.js, Express, Sequelize, Mongoose, PostgreSQL, MongoDB
 - **DevOps**: Git, GitHub, Docker
-- **Otros**: Python, PHP, MySql
+- **Otros**: Python, PHP, MySql, Supertest, Jest, Swagger
 
 ## 📈 Estadísticas de GitHub
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoLoboDev&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLoboDev&layout=compact&theme=radical)
 
 ## 🌍 Conectemos
 
