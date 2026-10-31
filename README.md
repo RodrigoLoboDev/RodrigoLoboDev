@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Lobo 👋
 
-**Full Stack Developer** · Node.js · TypeScript · NestJS · React · Next.js · **AI integrations** (Claude, OpenAI, RAG)
+**Full Stack Developer** · Node.js · TypeScript · NestJS · React · Next.js · **AI integrations** (Claude, OpenAI, RAG) <br>
 Tucumán, Argentina (GMT-3) · Open to remote work
 
 I build production web applications end to end and integrate AI into real products with control: validated outputs, cost tracking and evaluation.
